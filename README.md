@@ -3,9 +3,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SHAMNAD-S404&theme=radical&no-frame=true&column=7&margin-w=10)
 
 
 
