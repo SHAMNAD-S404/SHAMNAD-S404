@@ -1,4 +1,4 @@
-# Hi there, I'm SHAMNAD-S404! 👋
+# Hi there, I'm SHAMNAD S 👋
 
 
 ---
@@ -7,11 +7,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SHAMNAD-S404&theme=radical&no-frame=true&column=7&margin-w=10)
 
-## 🔥 GitHub Contributions
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=SHAMNAD-S404&theme=radical&hide_border=true)
-
----
 
 ## 🚀 About Me
 
@@ -64,17 +60,17 @@ I'm actively seeking opportunities where I can:
 ### 🎫 Ticket Flow
 > **Description:** An IT ticketing system based on microservices architecture to streamline workflows within organizations.
 > **Highlights:** Real-time ticket tracking, role-based dashboards, notifications, and analytics.
-> [GitHub Repo](#)
+> [GitHub Repo](https://github.com/SHAMNAD-S404/TicketFlow)
 
 ### 🛒 DigiCart-Ecom
 > **Description:** An e-commerce platform for electronic gadgets.
 > **Highlights:** User-friendly interface, product filtering, and secure checkout.
-> [GitHub Repo](#)
-
+> [GitHub Repo](https://github.com/SHAMNAD-S404/DigiCart-Ecommerce-Web-App
+)
 ### 🎮 GameZone
 > **Description:** A game-buying web application using React and Redux.
 > **Highlights:** Dynamic game library and cart management.
-> [GitHub Repo](#)
+> [GitHub Repo](https://github.com/SHAMNAD-S404/Redux---React--User-Management)
 
 ---
 
@@ -94,13 +90,7 @@ I'm actively seeking opportunities where I can:
 ---
 
 
----
 
-## 🔥 GitHub Contributions
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=SHAMNAD-S404&theme=radical&hide_border=true)
-
----
 
 ## 🌌 Fun Fact
 
