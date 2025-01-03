@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** passionate about building high-scalable and efficient web applications. My curiosity drives me to learn new technologies and explore how things work under the hood. Currently, I'm delving deep into **microservices architecture** and working on a B2B project designed to help organizations efficiently manage their departments and workflows.
+I'm a Full-Stack Developer passionate about building high-scalable and efficient web applications. My curiosity drives me to learn new technologies and explore how things work under the hood. Currently, I'm delving deep into microservices architecture and working on a B2B project designed to help organizations efficiently manage their departments and workflows.
 
 ### 🌟 Mission
 To build high-scalable, efficient, and impactful web applications that solve real-world problems.
@@ -18,10 +18,6 @@ To build high-scalable, efficient, and impactful web applications that solve rea
 I'm actively seeking opportunities where I can:
 - Contribute my skills to meaningful projects.
 - Enhance my expertise and collaborate with amazing teams.
-
-### 🔍 Ask me about
-"Web development, web optimization, microservices, Kubernetes, Docker, Git, RabbitMQ, front-end, back-end, databases, deployment, and DSA."
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -84,12 +80,3 @@ I'm actively seeking opportunities where I can:
 - **Email:** [shamnadsakeer306@gmail.com](mailto:shamnadsakeer306@gmail.com)
 - **LinkedIn:** [S Shamnad](https://www.linkedin.com/in/s-shamnad/)
 - **LeetCode:** [shamnad_skr](https://leetcode.com/u/shamnad_skr/)
-
----
-
-
-
-
-## 🌌 Fun Fact
-
-Curiosity is my superpower! 🚀
