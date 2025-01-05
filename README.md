@@ -1,11 +1,6 @@
 # Hi there, I'm SHAMNAD S 👋
 
 
----
-
-
-
-
 
 ## 🚀 About Me
 
