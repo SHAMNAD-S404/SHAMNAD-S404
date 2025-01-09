@@ -1,6 +1,8 @@
 # Hi there, I'm SHAMNAD S 👋
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SHAMNAD-S404)
+![Visitor Count](https://profile-counter.glitch.me/{SHAMNAD-S404}/count.svg)
+
 
 
 
