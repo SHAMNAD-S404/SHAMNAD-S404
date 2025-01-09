@@ -2,7 +2,8 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SHAMNAD-S404)
 ![Visitor Count](https://profile-counter.glitch.me/{SHAMNAD-S404}/count.svg)
-![image title](https://rushter.com/counter.svg)
+![image title](https://SHAMNAD-S404/counter.svg)
+![Profile views](https://gpvc.arturio.dev/[SHAMNAD-S404])
 
 
 
