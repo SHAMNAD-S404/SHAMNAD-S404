@@ -1,5 +1,8 @@
 # Hi there, I'm SHAMNAD S 👋
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SHAMNAD-S404)
+
+
 
 I'm a Full-Stack Developer passionate about building high-scalable and efficient web applications. My curiosity drives me to learn new technologies and explore how things work under the hood. Currently, I'm delving deep into microservices architecture and working on a B2B project designed to help organizations efficiently manage their departments and workflows.
 
