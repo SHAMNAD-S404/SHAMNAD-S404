@@ -1,6 +1,7 @@
 # Hi there, I'm SHAMNAD S 👋
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SHAMNAD-S404)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHAMNAD-S404&label=Profile%20views&color=0e75b6&style=flat" alt="SHAMNAD-S404" /> </p>
 
 
 
