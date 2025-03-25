@@ -14,7 +14,6 @@ I'm actively seeking opportunities where I can:
 - Contribute my skills to meaningful projects.
 - Enhance my expertise and collaborate with amazing teams.
 ---
-
 ## 🛠️ Skills & Technologies
 
 ### Languages
